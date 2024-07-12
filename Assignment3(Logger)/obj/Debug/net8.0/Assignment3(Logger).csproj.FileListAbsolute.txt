@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\obj\Debug\net8.0\Assignment3(Logger).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\obj\Debug\net8.0\Assignment3(Logger).AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\obj\Debug\net8.0\Assignment3(Logger).AssemblyInfo.cs
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\obj\Debug\net8.0\Assignment3(Logger).csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\bin\Debug\net8.0\Assignment3(Logger).exe
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\bin\Debug\net8.0\Assignment3(Logger).deps.json
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\bin\Debug\net8.0\Assignment3(Logger).runtimeconfig.json
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\bin\Debug\net8.0\Assignment3(Logger).dll
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\bin\Debug\net8.0\Assignment3(Logger).pdb
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\obj\Debug\net8.0\Assignment3(Logger).dll
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\obj\Debug\net8.0\refint\Assignment3(Logger).dll
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\obj\Debug\net8.0\Assignment3(Logger).pdb
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\obj\Debug\net8.0\Assignment3(Logger).genruntimeconfig.cache
+C:\Users\ABC\source\repos\Assignment3(Logger)\Assignment3(Logger)\obj\Debug\net8.0\ref\Assignment3(Logger).dll
