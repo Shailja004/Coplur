@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\bin\Debug\net8.0\List Assingnment 1.exe
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\bin\Debug\net8.0\List Assingnment 1.deps.json
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\bin\Debug\net8.0\List Assingnment 1.runtimeconfig.json
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\bin\Debug\net8.0\List Assingnment 1.dll
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\bin\Debug\net8.0\List Assingnment 1.pdb
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\obj\Debug\net8.0\List Assingnment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\obj\Debug\net8.0\List Assingnment 1.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\obj\Debug\net8.0\List Assingnment 1.AssemblyInfo.cs
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\obj\Debug\net8.0\List Assingnment 1.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\obj\Debug\net8.0\List Assingnment 1.dll
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\obj\Debug\net8.0\refint\List Assingnment 1.dll
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\obj\Debug\net8.0\List Assingnment 1.pdb
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\obj\Debug\net8.0\List Assingnment 1.genruntimeconfig.cache
+C:\Users\ABC\source\repos\List Assingnment 1\List Assingnment 1\obj\Debug\net8.0\ref\List Assingnment 1.dll
