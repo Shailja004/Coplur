@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\bin\Debug\net8.0\List Assignment 5.exe
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\bin\Debug\net8.0\List Assignment 5.deps.json
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\bin\Debug\net8.0\List Assignment 5.runtimeconfig.json
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\bin\Debug\net8.0\List Assignment 5.dll
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\bin\Debug\net8.0\List Assignment 5.pdb
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\obj\Debug\net8.0\List Assignment 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\obj\Debug\net8.0\List Assignment 5.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\obj\Debug\net8.0\List Assignment 5.AssemblyInfo.cs
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\obj\Debug\net8.0\List Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\obj\Debug\net8.0\List Assignment 5.dll
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\obj\Debug\net8.0\refint\List Assignment 5.dll
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\obj\Debug\net8.0\List Assignment 5.pdb
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\obj\Debug\net8.0\List Assignment 5.genruntimeconfig.cache
+C:\Users\ABC\source\repos\List Assignment 5\List Assignment 5\obj\Debug\net8.0\ref\List Assignment 5.dll
