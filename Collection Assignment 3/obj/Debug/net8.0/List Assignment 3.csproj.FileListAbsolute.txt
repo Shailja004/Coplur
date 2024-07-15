@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\obj\Debug\net8.0\List Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\obj\Debug\net8.0\List Assignment 3.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\obj\Debug\net8.0\List Assignment 3.AssemblyInfo.cs
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\obj\Debug\net8.0\List Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\bin\Debug\net8.0\List Assignment 3.exe
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\bin\Debug\net8.0\List Assignment 3.deps.json
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\bin\Debug\net8.0\List Assignment 3.runtimeconfig.json
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\bin\Debug\net8.0\List Assignment 3.dll
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\bin\Debug\net8.0\List Assignment 3.pdb
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\obj\Debug\net8.0\List Assignment 3.dll
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\obj\Debug\net8.0\refint\List Assignment 3.dll
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\obj\Debug\net8.0\List Assignment 3.pdb
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\obj\Debug\net8.0\List Assignment 3.genruntimeconfig.cache
+C:\Users\ABC\source\repos\List Assignment 3\List Assignment 3\obj\Debug\net8.0\ref\List Assignment 3.dll
