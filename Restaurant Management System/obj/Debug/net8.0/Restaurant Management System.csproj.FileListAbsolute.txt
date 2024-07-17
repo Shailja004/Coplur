@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\bin\Debug\net8.0\Restaurant Management System.exe
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\bin\Debug\net8.0\Restaurant Management System.deps.json
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\bin\Debug\net8.0\Restaurant Management System.runtimeconfig.json
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\bin\Debug\net8.0\Restaurant Management System.dll
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\bin\Debug\net8.0\Restaurant Management System.pdb
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\obj\Debug\net8.0\Restaurant Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\obj\Debug\net8.0\Restaurant Management System.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\obj\Debug\net8.0\Restaurant Management System.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\obj\Debug\net8.0\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\obj\Debug\net8.0\Restaurant Management System.dll
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\obj\Debug\net8.0\refint\Restaurant Management System.dll
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\obj\Debug\net8.0\Restaurant Management System.pdb
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\obj\Debug\net8.0\Restaurant Management System.genruntimeconfig.cache
+C:\Users\ABC\source\repos\Restaurant Management System\Restaurant Management System\obj\Debug\net8.0\ref\Restaurant Management System.dll
